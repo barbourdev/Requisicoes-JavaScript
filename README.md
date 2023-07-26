@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&color=3066BE&center=true&width=435&lines=Requisições+em+JS">
 </div>
 <br>
-<p align="center">Projeto realizado em HTML, CSS e JavaScript, com o intuito de utilizar alguns métodos de array, para uma loja fictícia de livros (Alura Book). Fazendo a exibição dos livros, vindo de uma API, simulando um back-end e a filtragrem desses livros nas opções existentes</p>
+<p align="center">Projeto realizado em HTML, CSS e JavaScript, com o intuito de fazer requisições em um servidor local. Esse servidor foi criado a partir do node-modules, usando o json-server para simular um json de um banco de dados, hospedado localmente. Caso queira baixar o projeto e testar em sua máquina, use o comando: "json-server --watch db.json" no console.</p>
 
 ##
 <h3 align="center"> 💻 Tecnologias</h3>
