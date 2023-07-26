@@ -3,7 +3,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&color=3066BE&center=true&width=435&lines=Requisições+em+JS">
 </div>
 <br>
-<p align="center">Projeto realizado em HTML, CSS e JavaScript, com o intuito de fazer requisições em um servidor local. Esse servidor foi criado a partir do node-modules, usando o json-server para simular um json de um banco de dados, hospedado localmente. Caso queira baixar o projeto e testar em sua máquina, use o comando: "json-server --watch db.json" no console.</p>
+<p align="center">Projeto realizado em HTML, CSS e JavaScript, com o intuito de fazer requisições em um servidor local. Esse servidor foi criado a partir do node-modules, usando o json-server para simular um json de um banco de dados, hospedado localmente. Caso queira baixar o projeto e testar em sua máquina, use o comando: "json-server --watch db.json" no console, para inicar o endpoint dos dados</p>
+
+<p align="center">Foi feito os métodos de GET e POST, além desses foi desenvolvido um sistema de busca para aumentar a experiência do usuário.</p>
 
 ##
 <h3 align="center"> 💻 Tecnologias</h3>
